@@ -19,7 +19,15 @@ Paso 4 - Abrimos una termianl o linea de comandos (CMD) y nos dirigimos a la sig
 
 ![image](https://user-images.githubusercontent.com/86212752/144053830-b33dd7a7-d052-4f46-ab53-d37cb5d56216.png)
 
-Paso 5 - Abrimos 2 ventanas del navegador una normal y la otra en modo incognito para visualizar dentro de la 
+Paso 5 - Abrimos 2 ventanas del navegador una normal y la otra en modo incognito para visualizar dentro de la interacción entre las dos conexiones realizadas.
 
+![image](https://user-images.githubusercontent.com/86212752/146662869-f4983c1d-4c07-4319-a68d-580576b34ab4.png)
 
+Paso 6 - Visualizamos en la terminal las dos conexiones que se encuantran en ejecución.
+
+![image](https://user-images.githubusercontent.com/86212752/146662912-45570a9a-aed7-4d4e-81c0-a0b7e9373e88.png)
+
+Paso 7 - Cerramos los navegadores y visualizamos la terminal, esta nos indica las conexiones que se han finalizado.
+
+![image](https://user-images.githubusercontent.com/86212752/146662935-a3c7322c-47a2-47c9-8f25-aeb583fbb073.png)
 
